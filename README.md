@@ -1,4 +1,4 @@
-# Do younger directors make better video-game movies?
+# Did they grow up with the game?
 
 ECON 3916 midterm project, course example. Critics' scores for films based on video games, 1993–2025.
 
@@ -6,11 +6,11 @@ ECON 3916 midterm project, course example. Critics' scores for films based on vi
 
 ## Question
 
-Among English-language films based on video games, 1993–2025, are films by younger directors rated better by critics (the Rotten Tomatoes score), holding the release year and the format (live-action or animated) constant?
+Among English-language films based on video games, 1993–2025, are films whose directors were younger when the game came out rated better by critics (the Rotten Tomatoes score), holding the release year and the format (live-action or animated) constant?
 
 ## Hypothesis
 
-Younger directors are more likely to have grown up playing the game they adapt, so they should make better films: a negative coefficient on the director's age.
+A director who was young when the game came out is more likely to have grown up playing it, so should make a better film of it: a negative coefficient on the director's age when the game came out (the game's first release year minus the director's birth year).
 
 ## Data
 
@@ -18,17 +18,18 @@ Younger directors are more likely to have grown up playing the game they adapt, 
 |---|---|---|
 | `data/films_wikipedia.csv` | [Wikipedia, "List of films based on video games"](https://en.wikipedia.org/wiki/List_of_films_based_on_video_games) | the live-action and animated tables: title, director, release date, Rotten Tomatoes score and review count, budget (each cited to Rotten Tomatoes, Box Office Mojo or The Numbers) |
 | `data/directors_wikidata.csv` | [Wikidata](https://www.wikidata.org) | each linked director's date of birth (P569) |
+| `data/games_wikipedia.csv` | Wikipedia: each film's infobox "based on" page | the game or series each film is based on, and its first release year |
 | `data/cpi_fred.csv` | [FRED, CPIAUCSL](https://fred.stlouisfed.org/series/CPIAUCSL) | CPI-U, monthly, to put budgets in 2024 prices |
 
-All three were downloaded on 2026-11-03 by `get_data.py`.
+All four were downloaded on 2026-11-03 by `get_data.py` (the game years on 2026-11-04, with `python get_data.py --only games`).
 
 ## How to run
 
-1. Open the notebook in Colab (link above) and run the cells top to bottom. The cell after Setup downloads the three files in `data/` from this repository.
+1. Open the notebook in Colab (link above) and run the cells top to bottom. The cell after Setup downloads the four files in `data/` from this repository.
 2. To rebuild `data/` from the original sources instead, run `python get_data.py`. The Wikipedia page changes, so a new download can give slightly different numbers.
 
 Every number in the report is printed by the notebook's last code cell, "Numbers my report quotes".
 
 ## Finding
 
-A director ten years younger goes with a critics' score 1.7 points higher (95% CI -4.6 to +8.1 points, N = 53). That is the sign the hypothesis predicts, but the data cannot rule out no association. The release year matters far more: each later year goes with 1.21 points more. The estimate is a conditional association; age is only a stand-in for having played the game.
+Before any controls, films by directors who were younger when the game came out are rated better: -0.71 points per year of age (95% CI -1.16 to -0.26). Most of that goes with the release year: recent films adapt games their directors met younger, and recent films are rated much better. Holding the year and the format fixed, a director ten years younger when the game came out goes with a score 2.9 points higher (95% CI -2.3 to +8.0, N = 53). The hypothesis is neither supported nor rejected.
