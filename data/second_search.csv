@@ -1,0 +1,17 @@
+title,year,field,value,source,note,searched
+Double Dragon,1994,born,1963-03-12,https://www.wikidata.org/wiki/Q3161502,"James Yukich is not linked in the table; a Wikidata name search finds him, described as an American film and music video director",2026-11-04
+Tekken,2009,born,1956-01-13,https://www.wikidata.org/wiki/Q1268483,"the table links 'Dwight Little', a redirect to Dwight H. Little that the first lookup did not follow",2026-11-04
+A Minecraft Movie,2025,born,1979-07-18,https://en.wikipedia.org/wiki/Jared_and_Jerusha_Hess,Jared Hess shares one page with Jerusha Hess; its infobox gives his birth date,2026-11-04
+Resident Evil: Vendetta,2017,born,1971,https://www.wikidata.org/wiki/Q11638248,"Takanori Tsujimoto is not linked in the table; Wikidata lists him as a film director, birth year only",2026-11-04
+Dead Trigger,2019,born,1972,https://link.dclibrary.org/resource/qIuv8nzByFc,"the co-director Scott Windhauser, from a library name heading 'Windhauser, Scott, 1972-'; the first-listed director, Mike Cuff, has no birth date",2026-11-04
+Moshi Monsters: The Movie,2013,budget,3597660,https://fred.stlouisfed.org/series/DEXUSUK,the budget is given as GBP 2.3 million; converted at the 2013 mean of 1.5642 USD per GBP (data/fx_usd_per_gbp_fred.csv),2026-11-04
+The Super Mario Galaxy Movie,2026,game_year,1981,https://en.wikipedia.org/wiki/Mario_(franchise),"its infobox has no 'based on' field; dated by the Mario franchise, the same rule as the other two Mario films",2026-11-04
+Moshi Monsters: The Movie,2013,born,,https://www.filmeu.eu/news/creative-process-of-directing-and-writing-for-preschool-animation-31st-may-13h-cet,"Wip Vernooij: no birth date in Wikipedia, Wikidata or the web; a 2022 festival profile gives his age (about 1984), too rough to use",2026-11-04
+Heavenly Sword,2014,born,,https://en.wikipedia.org/wiki/Heavenly_Sword_(film),Gun Ho Jung (also spelled Gun Ho Jang): no birth date found,2026-11-04
+Scarygirl,2023,born,,https://www.rottentomatoes.com/celebrity/ricard_cusso,Ricard Cussó: no birth date found; Rotten Tomatoes lists it as not available,2026-11-04
+Dead Trigger,2019,born_first_director,,https://www.wikidata.org/wiki/Q16206359,"a name search for Mike Cuff finds a Montana politician born in 1946, a different person; rejected",2026-11-04
+Far Cry,2008,rt,,https://www.rottentomatoes.com/m/1219216-far_cry,Rotten Tomatoes shows no critics' score (2 reviews); the 12% some pages quote is the audience score,2026-11-04
+Dead Trigger,2019,rt,,https://www.rottentomatoes.com/m/dead_trigger,no critics' score (1 review); the percentage shown is not a Tomatometer,2026-11-04
+Heavenly Sword,2014,rt,,https://www.rottentomatoes.com/m/heavenly_sword,no critics' score (1 review); the percentage shown is not a Tomatometer,2026-11-04
+Scarygirl,2023,rt,,https://www.rottentomatoes.com/m/scarygirl,no critics' score (8 reviews),2026-11-04
+Scarygirl,2023,game_year,,https://en.wikipedia.org/wiki/Scarygirl_(film),"based on Nathan Jurevicius's character, not a single game; left missing",2026-11-04
