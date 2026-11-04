@@ -1,0 +1,58 @@
+title,year,format,animated,rt,reviews,age_game,lag,log_budget,later_film,publisher,distributor,metacritic
+Super Mario Bros.,1993,live-action,0,26.0,46.0,26.0,12.0,4.58198727852119,0,Nintendo,Buena Vista Pictures Distribution,35.0
+Double Dragon,1994,live-action,0,12.0,17.0,24.0,7.0,2.8038236150568263,0,Technōs Japan,Gramercy Pictures,40.0
+Street Fighter,1994,live-action,0,17.0,63.0,44.0,3.0,4.305047942850694,0,Capcom,Universal PicturesColumbia TriStar Film Distributors International,34.0
+Mortal Kombat,1995,live-action,0,44.0,78.0,27.0,3.0,3.7177642685663765,0,Midway Games,New Line Cinema,60.0
+Mortal Kombat Annihilation,1997,live-action,0,4.0,53.0,36.0,5.0,4.071178958936755,1,Midway Games,New Line Cinema,11.0
+Wing Commander,1999,live-action,0,10.0,51.0,22.0,9.0,3.891032124263794,0,Origin Systems,20th Century Fox,21.0
+Lara Croft: Tomb Raider,2001,live-action,0,21.0,163.0,35.0,5.0,5.316978289551096,0,Eidos,Paramount Pictures,33.0
+Resident Evil,2002,live-action,0,36.0,162.0,31.0,6.0,4.0527229967557,0,Capcom,Sony Pictures Releasing,33.0
+Lara Croft: Tomb Raider – The Cradle of Life,2003,live-action,0,24.0,172.0,53.0,7.0,5.087372404946267,1,Eidos,Paramount Pictures,43.0
+House of the Dead,2003,live-action,0,3.0,59.0,32.0,6.0,3.0184021631337266,0,Sega,Artisan Entertainment,15.0
+Resident Evil: Apocalypse,2004,live-action,0,18.0,130.0,44.0,8.0,4.313831872138552,1,Capcom,Sony Pictures Releasing,35.0
+Alone in the Dark,2005,live-action,0,1.0,120.0,27.0,13.0,3.469797398783179,0,Infogrames,Lionsgate,9.0
+Doom,2005,live-action,0,18.0,133.0,43.0,12.0,4.648452395124825,0,id Software,Universal Pictures,34.0
+BloodRayne,2006,live-action,0,4.0,51.0,37.0,4.0,3.6612282608811113,0,Majesco,Boll KG Productions,18.0
+Silent Hill,2006,live-action,0,34.0,112.0,39.0,7.0,4.354375441441057,0,Konami,Sony Pictures Releasing,31.0
+DOA: Dead or Alive,2006,live-action,0,32.0,44.0,45.0,10.0,3.843549817675066,0,Tecmo,Dimension FilmsSummit Entertainment,38.0
+Resident Evil: Extinction,2007,live-action,0,24.0,101.0,43.0,11.0,4.220713707215129,1,Capcom,Sony Pictures Releasing,41.0
+Postal,2007,live-action,0,9.0,45.0,32.0,10.0,3.122101418547019,0,Ripcord Games,Vivendi Entertainment,22.0
+Hitman,2007,live-action,0,16.0,104.0,25.0,7.0,3.5921050477927547,0,Eidos,20th Century Fox,35.0
+In the Name of the King: A Dungeon Siege Tale,2008,live-action,0,4.0,51.0,37.0,6.0,4.470955945580733,0,Microsoft Studios,20th Century Fox,15.0
+Max Payne,2008,live-action,0,16.0,135.0,31.0,7.0,3.931959444848046,0,Rockstar Games,20th Century Fox,31.0
+Street Fighter: The Legend of Chun-Li,2009,live-action,0,3.0,59.0,37.0,22.0,4.291843107148159,1,Capcom,20th Century Fox,17.0
+Tekken,2009,live-action,0,0.0,6.0,38.0,15.0,3.781017483382168,0,Bandai Namco Games,Anchor Bay Entertainment,
+Prince of Persia: The Sands of Time,2010,live-action,0,37.0,227.0,47.0,21.0,5.528372854731838,0,Ubisoft,Walt Disney Studios Motion Pictures,50.0
+Resident Evil: Afterlife,2010,live-action,0,21.0,107.0,31.0,14.0,4.457931443030425,1,Capcom,Sony Pictures Releasing,37.0
+Resident Evil: Retribution,2012,live-action,0,28.0,74.0,31.0,16.0,4.486540490901657,1,Capcom,Sony Pictures Releasing,39.0
+Silent Hill: Revelation,2012,live-action,0,8.0,62.0,50.0,9.0,3.307885494560011,1,Konami,Open Road Films,16.0
+Need for Speed,2014,live-action,0,23.0,182.0,24.0,20.0,4.471229127112931,0,Electronic Arts,Walt Disney Studios Motion Pictures,39.0
+Hitman: Agent 47,2015,live-action,0,8.0,131.0,20.0,15.0,3.8357118073700107,1,Square Enix,20th Century Fox,28.0
+Warcraft,2016,live-action,0,29.0,231.0,23.0,22.0,5.342943593656789,0,Blizzard Entertainment,Universal Pictures,32.0
+Assassin's Creed,2016,live-action,0,18.0,224.0,33.0,9.0,5.0960835157252635,0,Ubisoft,20th Century Fox,36.0
+Resident Evil: The Final Chapter,2017,live-action,0,39.0,101.0,31.0,21.0,3.9355587588902785,1,Capcom,Sony Pictures Releasing,49.0
+Tomb Raider,2018,live-action,0,52.0,327.0,40.0,5.0,4.807549474702277,1,Square Enix,Warner Bros. Pictures,48.0
+Rampage,2018,live-action,0,51.0,282.0,8.0,32.0,5.090116446487288,0,Warner Bros. Games,Warner Bros. Pictures,45.0
+Pokémon Detective Pikachu,2019,live-action,0,68.0,317.0,46.0,3.0,5.215247138614804,0,NintendoThe Pokémon Company,Warner Bros. Pictures,53.0
+Sonic the Hedgehog,2020,live-action,0,64.0,255.0,13.0,29.0,4.663799107579847,0,Sega,Paramount Pictures,47.0
+Monster Hunter,2020,live-action,0,44.0,98.0,39.0,16.0,4.2865048764383795,0,Capcom,Sony Pictures Releasing,47.0
+Mortal Kombat,2021,live-action,0,55.0,299.0,8.0,29.0,4.153743733599897,1,Warner Bros. Games,Warner Bros. Pictures,44.0
+Werewolves Within,2021,live-action,0,86.0,148.0,33.0,5.0,2.0182127252690174,0,Ubisoft,IFC Films,66.0
+Resident Evil: Welcome to Raccoon City,2021,live-action,0,30.0,92.0,20.0,25.0,3.3652863732356266,1,Capcom,Sony Pictures Releasing,44.0
+Uncharted,2022,live-action,0,41.0,265.0,33.0,15.0,4.857026246701462,0,Sony Interactive Entertainment,Sony Pictures Releasing,45.0
+Sonic the Hedgehog 2,2022,live-action,0,69.0,181.0,13.0,31.0,4.674704689907508,1,Sega,Paramount Pictures,47.0
+Five Nights at Freddy's,2023,live-action,0,33.0,215.0,32.0,9.0,3.0248260128155904,0,ScottGames,Universal Pictures,33.0
+Borderlands,2024,live-action,0,10.0,167.0,37.0,15.0,4.74493212836325,0,2K Games,Lionsgate,26.0
+Sonic the Hedgehog 3,2024,live-action,0,86.0,152.0,13.0,33.0,4.804021044733257,1,Sega,Paramount Pictures,56.0
+A Minecraft Movie,2025,live-action,0,47.0,195.0,30.0,16.0,4.984633321252664,0,Mojang Studios,Warner Bros. Pictures,45.0
+Until Dawn,2025,live-action,0,52.0,120.0,34.0,10.0,2.6820482282586187,0,Sony Interactive Entertainment,Sony Pictures Releasing,49.0
+Five Nights at Freddy's 2,2025,live-action,0,17.0,132.0,32.0,11.0,3.5575169656125185,1,ScottGames,Universal Pictures,26.0
+Final Fantasy: The Spirits Within,2001,animated,1,44.0,144.0,25.0,14.0,5.492027087015971,0,Square,Columbia Pictures,49.0
+Resident Evil: Degeneration,2008,animated,1,67.0,6.0,31.0,12.0,,1,Capcom,Sony Pictures Entertainment Japan,
+Resident Evil: Damnation,2012,animated,1,100.0,5.0,31.0,16.0,,1,Capcom,Sony Pictures Entertainment Japan,
+Ratchet & Clank,2016,animated,1,22.0,82.0,30.0,14.0,3.263502051976953,0,Sony Interactive Entertainment,Gramercy PicturesFocus FeaturesUniversal Pictures,29.0
+The Angry Birds Movie,2016,animated,1,44.0,153.0,36.0,7.0,4.558229219571353,0,Rovio Entertainment,Sony Pictures Releasing,43.0
+Resident Evil: Vendetta,2017,animated,1,43.0,7.0,25.0,21.0,,1,Capcom,Kadokawa Daiei Studio,
+The Angry Birds Movie 2,2019,animated,1,72.0,108.0,33.0,10.0,4.378999114414185,1,Rovio Entertainment,Sony Pictures Releasing,60.0
+The Super Mario Bros. Movie,2023,animated,1,59.0,292.0,1.0,42.0,4.634263925249691,1,Nintendo,Universal Pictures,46.0
+Resident Evil: Death Island,2023,animated,1,71.0,7.0,29.0,27.0,,1,Capcom,Sony Pictures Releasing,

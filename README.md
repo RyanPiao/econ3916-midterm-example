@@ -23,6 +23,7 @@ A director who was young when the game came out is more likely to have grown up 
 | `data/rt_spot_check.csv` | Rotten Tomatoes, 2026-11-04 | the 5 most recent films' scores checked against the site |
 | `data/fx_usd_per_gbp_fred.csv` | [FRED, DEXUSUK](https://fred.stlouisfed.org/series/DEXUSUK) | dollars per pound, to convert the one budget given in pounds |
 | `data/cpi_fred.csv` | [FRED, CPIAUCSL](https://fred.stlouisfed.org/series/CPIAUCSL) | CPI-U, monthly, to put budgets in 2024 prices |
+| `data/movies_sample.csv` | made by the midterm notebook | the 57 films of the sample with the columns the Topic 16 notebook uses (read only by that notebook) |
 
 All four were downloaded on 2026-11-03 by `get_data.py` (the game years on 2026-11-04, with `python get_data.py --only games`).
 
@@ -36,3 +37,9 @@ Every number in the report is printed by the notebook's last code cell, "Numbers
 ## Finding
 
 Before any controls, films by directors who were younger when the game came out are rated better: -0.72 points per year of age (95% CI -1.17 to -0.27). Most of that goes with the release year: recent films adapt games their directors met younger, and recent films are rated much better. Holding the year and the format fixed, a director ten years younger when the game came out goes with a score 3.0 points higher (95% CI -1.9 to +7.9, N = 57). The hypothesis is neither supported nor rejected.
+
+## After Topic 16: lasso and ridge on the same films
+
+[Open the Topic 16 notebook in Colab](https://colab.research.google.com/github/RyanPiao/econ3916-midterm-example/blob/main/topic16-lasso-ridge-movies.ipynb)
+
+The same 57 films, two questions. Can a penalized model predict a film's critics' score better than the midterm model, using only what is known before release? And can a penalty change the answer about the director's age? Ridge predicts a little better. No penalty changes the midterm's conclusion once the controls are the ones the causal graph allows.
